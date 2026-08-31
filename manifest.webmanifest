@@ -1,0 +1,9 @@
+{
+  "name": "Detroja Manav — Developer Portfolio",
+  "short_name": "Detroja Manav",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090b16",
+  "theme_color": "#090b16",
+  "icons": []
+}
